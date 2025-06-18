@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-b9feedb8de7396128f86.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "safety_node",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_safety_node_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_safety_node_egg-dac0394bdb58c9a3d400.json",
+					"name" : "ament_cmake_python_build_safety_node_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_safety_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_safety_node-a46219e7949ee12b3793.json",
+					"name" : "ament_cmake_python_copy_safety_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_safety_node_setup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_safety_node_setup-74291604f94a22a652af.json",
+					"name" : "ament_cmake_python_copy_safety_node_setup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "safety_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-safety_node-54541c2818c0c87a06e6.json",
+					"name" : "safety_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "safety_node_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-safety_node_uninstall-c0599e7a3e59b13ed2aa.json",
+					"name" : "safety_node_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ddf0c78bcbcf96abd44f.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/austin/Documents/f1tenth/sim_ws/src/build/safety_node",
+		"source" : "/home/austin/Documents/f1tenth/sim_ws/src/safety_node"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

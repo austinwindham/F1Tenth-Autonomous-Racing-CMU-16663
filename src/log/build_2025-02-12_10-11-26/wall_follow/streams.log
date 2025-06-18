@@ -1,0 +1,5 @@
+[0.120s] Invoking command in '/sim_ws/src/build/wall_follow': /usr/bin/cmake --build /sim_ws/src/build/wall_follow -- -j16 -l16
+[0.128s] CMake Error: The current CMakeCache.txt directory /sim_ws/src/build/wall_follow/CMakeCache.txt is different than the directory /home/austin/Documents/f1tenth/sim_ws/src/build/wall_follow where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+[0.128s] No such file or directory
+[0.130s] CMake Error: Generator: execution of make failed. Make command was: /usr/bin/gmake -j16 -l16 && 
+[0.132s] Invoked command in '/sim_ws/src/build/wall_follow' returned '1': /usr/bin/cmake --build /sim_ws/src/build/wall_follow -- -j16 -l16

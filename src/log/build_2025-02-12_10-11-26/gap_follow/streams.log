@@ -1,0 +1,34 @@
+[0.116s] Invoking command in '/sim_ws/src/build/gap_follow': /usr/bin/cmake /sim_ws/src/gap_follow -DCMAKE_INSTALL_PREFIX=/sim_ws/src/install/gap_follow
+[0.167s] -- The C compiler identification is GNU 9.4.0
+[0.209s] -- The CXX compiler identification is GNU 9.4.0
+[0.212s] -- Check for working C compiler: /usr/bin/cc
+[0.273s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.275s] -- Detecting C compiler ABI info
+[0.334s] -- Detecting C compiler ABI info - done
+[0.342s] -- Detecting C compile features
+[0.342s] -- Detecting C compile features - done
+[0.344s] -- Check for working CXX compiler: /usr/bin/c++
+[0.427s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.428s] -- Detecting CXX compiler ABI info
+[0.516s] -- Detecting CXX compiler ABI info - done
+[0.524s] -- Detecting CXX compile features
+[0.525s] -- Detecting CXX compile features - done
+[0.529s] CMake Error at CMakeLists.txt:25 (find_package):
+[0.529s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.529s]   has asked CMake to find a package configuration file provided by
+[0.529s]   "ament_cmake", but CMake did not find one.
+[0.529s] 
+[0.529s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.529s]   any of the following names:
+[0.529s] 
+[0.529s]     ament_cmakeConfig.cmake
+[0.529s]     ament_cmake-config.cmake
+[0.529s] 
+[0.529s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.529s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.529s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.529s]   has been installed.
+[0.529s] 
+[0.529s] 
+[0.529s] -- Configuring incomplete, errors occurred!
+[0.529s] See also "/sim_ws/src/build/gap_follow/CMakeFiles/CMakeOutput.log".

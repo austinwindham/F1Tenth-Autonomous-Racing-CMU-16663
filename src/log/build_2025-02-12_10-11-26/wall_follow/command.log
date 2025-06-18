@@ -1,0 +1,2 @@
+Invoking command in '/sim_ws/src/build/wall_follow': /usr/bin/cmake --build /sim_ws/src/build/wall_follow -- -j16 -l16
+Invoked command in '/sim_ws/src/build/wall_follow' returned '1': /usr/bin/cmake --build /sim_ws/src/build/wall_follow -- -j16 -l16
